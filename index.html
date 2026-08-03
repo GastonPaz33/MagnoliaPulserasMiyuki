@@ -996,7 +996,6 @@ async function githubRequest(path, options={}) {
   const headers = {
     'Accept':'application/vnd.github+json',
     'Authorization':`Bearer ${form.token}`,
-    'X-GitHub-Api-Version':'2022-11-28',
     ...(options.headers||{})
   };
   const res = await fetch(`https://api.github.com/repos/${encodeURIComponent(form.owner)}/${encodeURIComponent(form.repo)}/${path}`, {...options,headers});
