@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "name": "Rosa Antigua",
+      "desc": "Delicada combinación en tonos rosados y beige.",
+      "price": "$2.800",
+      "colors": [
+        "#E8B4A0",
+        "#C4836E",
+        "#F2C4A8"
+      ],
+      "badge": "Más vendida",
+      "bg": "#F8EDE8",
+      "foto": ""
+    },
+    {
+      "name": "Terracota Bloom",
+      "desc": "Tonos tierra y coral que evocan el atardecer.",
+      "price": "$2.800",
+      "colors": [
+        "#A0554A",
+        "#C9A87C",
+        "#D4A0A0"
+      ],
+      "badge": "Destacada",
+      "bg": "#F5E8E0",
+      "foto": ""
+    },
+    {
+      "name": "Jardín Verde",
+      "desc": "Frescura natural con cuentas en verdes y blancos.",
+      "price": "$2.600",
+      "colors": [
+        "#9CB4A0",
+        "#7A9478",
+        "#E8EDE0"
+      ],
+      "badge": "Nueva",
+      "bg": "#EEF5EC",
+      "foto": ""
+    },
+    {
+      "name": "Azul Porcelana",
+      "desc": "Elegancia en azules suaves y blancos perla.",
+      "price": "$2.600",
+      "colors": [
+        "#B0C4D8",
+        "#7898BC",
+        "#FDFAF7"
+      ],
+      "badge": "",
+      "bg": "#EAF0F8",
+      "foto": ""
+    },
+    {
+      "name": "Violeta Místico",
+      "desc": "Tonos lavanda y malva con detalles dorados.",
+      "price": "$3.000",
+      "colors": [
+        "#D4B0D8",
+        "#A87CB8",
+        "#C9A87C"
+      ],
+      "badge": "Premium",
+      "bg": "#F5EEF8",
+      "foto": ""
+    },
+    {
+      "name": "Dorada Magnolia",
+      "desc": "Oro antiguo y rosa terracota en patrón floral.",
+      "price": "$3.200",
+      "colors": [
+        "#C9A87C",
+        "#A0554A",
+        "#E8D4BC"
+      ],
+      "badge": "Signature",
+      "bg": "#F8F0E0",
+      "foto": ""
+    }
+  ],
+  "palette": [
+    {
+      "hex": "#E8B4A0",
+      "name": "Rosa pálido"
+    },
+    {
+      "hex": "#C4836E",
+      "name": "Rosa terra"
+    },
+    {
+      "hex": "#A0554A",
+      "name": "Terracota"
+    },
+    {
+      "hex": "#D4A0A0",
+      "name": "Rosa durazno"
+    },
+    {
+      "hex": "#F2C4A8",
+      "name": "Melocotón"
+    },
+    {
+      "hex": "#C9A87C",
+      "name": "Dorado"
+    },
+    {
+      "hex": "#A0785A",
+      "name": "Café claro"
+    },
+    {
+      "hex": "#E8D4BC",
+      "name": "Crema"
+    },
+    {
+      "hex": "#9CB4A0",
+      "name": "Verde salvia"
+    },
+    {
+      "hex": "#7A9478",
+      "name": "Verde hoja"
+    },
+    {
+      "hex": "#B8C8B0",
+      "name": "Verde menta"
+    },
+    {
+      "hex": "#5C7860",
+      "name": "Verde oscuro"
+    },
+    {
+      "hex": "#B0C4D8",
+      "name": "Azul cielo"
+    },
+    {
+      "hex": "#7898BC",
+      "name": "Azul medio"
+    },
+    {
+      "hex": "#A8B8D0",
+      "name": "Azul perla"
+    },
+    {
+      "hex": "#5C7890",
+      "name": "Azul marino"
+    },
+    {
+      "hex": "#D4B0D8",
+      "name": "Lavanda"
+    },
+    {
+      "hex": "#A87CB8",
+      "name": "Violeta"
+    },
+    {
+      "hex": "#C8A0C8",
+      "name": "Lila"
+    },
+    {
+      "hex": "#8C5CA0",
+      "name": "Púrpura"
+    },
+    {
+      "hex": "#F5E6BC",
+      "name": "Amarillo suave"
+    },
+    {
+      "hex": "#E8D088",
+      "name": "Amarillo oro"
+    },
+    {
+      "hex": "#C4A840",
+      "name": "Mostaza"
+    },
+    {
+      "hex": "#8C7828",
+      "name": "Ocre"
+    }
+  ],
+  "banners": [
+    {
+      "titulo": "Envíos gratis en pedidos +$5.000 🌸",
+      "sub": "Solo por este mes",
+      "emoji": "🔥",
+      "estado": "active",
+      "desde": "2025-05-01",
+      "hasta": "2025-05-31",
+      "color": "#D4EDDA"
+    },
+    {
+      "titulo": "Día de los Enamorados ❤️",
+      "sub": "Diseños especiales con packaging de regalo",
+      "emoji": "❤️",
+      "estado": "inactive",
+      "desde": "2025-02-01",
+      "hasta": "2025-02-14",
+      "color": "#F8D7DA"
+    }
+  ],
+  "config": {
+    "wsp": "5493704673925",
+    "wsp2": "",
+    "nombre": "Magnolia Pulseras Miyuki",
+    "slogan": "Artesanía con alma",
+    "tiendaActiva": true,
+    "customActivo": true
+  }
+}
